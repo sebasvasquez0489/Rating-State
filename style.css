@@ -161,4 +161,8 @@ body {
     font-size: 1em;
     width: 196px;
   }
+  /* ---Estilos para el boton--- */
+  .rating-state__button {
+    height: 35px;
+  }
 }
