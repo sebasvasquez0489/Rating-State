@@ -11,7 +11,7 @@ JavaScript (Vanilla): lógica para manejar la selección de la calificación y m
 
 Google Fonts - Overpass: para mejorar la tipografía.
 
-#✨ Funcionalidades
+# ✨ Funcionalidades
 Selección de una calificación del 1 al 5.
 
 Botón de envío que muestra el número seleccionado.
